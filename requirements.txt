@@ -1,0 +1,5 @@
+Flask>=3.0.3
+python-dotenv>=1.0.1
+gunicorn==22.0.0
+azure-storage-blob>=12.21.0
+Werkzeug>=3.0.0
